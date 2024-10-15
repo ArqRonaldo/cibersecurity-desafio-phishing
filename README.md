@@ -22,7 +22,7 @@
 
 
 
-![Foto](cibersecurity-desafio-phishing/Captura de tela 2024-10-14 182145.png)
+
 
 
 
