@@ -19,6 +19,7 @@
 ### Resutados
 
 ![Alt text](./passwd.png "Optional title")
-![Captura de tela 2024-10-14 182145.png](Captura de tela 2024-10-14 182145.png)
+
+![Captura de tela 2024-10-14 182145](Captura de tela 2024-10-14 182145.png)
 
 
