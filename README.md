@@ -20,6 +20,6 @@
 
 ![Alt text](./passwd.png "Optional title")
 
-![Alt text](Captura de tela 2024-10-14 182145.png)
+![Alt text](./Captura de tela 2024-10-14 182145.png)
 
 
